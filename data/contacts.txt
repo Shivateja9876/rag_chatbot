@@ -1,0 +1,3 @@
+Dean (Academics): dean.acad@university.edu
+Dean (Students): dean.students@university.edu
+Placement Office: placement@university.edu

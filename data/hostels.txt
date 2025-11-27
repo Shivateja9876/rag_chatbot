@@ -1,0 +1,3 @@
+Hostel A to G are boys hostels.
+Hostel H and I are girls hostels.
+Hostel entry closes at 10 PM for all residents.
